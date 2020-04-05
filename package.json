@@ -1,0 +1,14 @@
+{
+  "name": "s3-fetch",
+  "version": "0.0.1",
+  "description": "fetches s3 objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.653.0"
+  }
+}
